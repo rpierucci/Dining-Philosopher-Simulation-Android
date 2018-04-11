@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\color\\abc_search_url_text.xml"
+    }
+]

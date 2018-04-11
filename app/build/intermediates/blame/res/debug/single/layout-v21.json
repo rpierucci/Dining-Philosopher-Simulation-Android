@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Robert\\.android\\build-cache\\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Robert\.android\build-cache\2ae711ade0e5cc487c8e55d38c70a4a64d75d5a6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Robert\.android\build-cache\475f366b06b1c750d6cbcada1d9cb52e86c6ab29\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Robert\.android\build-cache\499efa0a85566bb8821bda8e291956ed52fe47cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Robert\.android\build-cache\2a81a8bd065b4a0958abba97011396bfcf0be4fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Robert\.android\build-cache\c6f6be7e7714e09ef57b554757ba428fc3b25373\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\4515df7f21694f8f0e80a66bf94ded47ea21b429\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\b585f384ea779a71cb2e84c9ca81d29141352340\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Robert\.android\build-cache\1de10746e02d7864df2164b857028b281e836f98\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robert\.android\build-cache\54bcafb6e388660a3e354790271333039a82108f\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:8:9-42
+	android:supportsRtl
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.robert.diningphilosopher.MainActivity
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:13:13-50
+	android:configChanges
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:14:13-74
+	android:name
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Robert\.android\build-cache\2ae711ade0e5cc487c8e55d38c70a4a64d75d5a6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Robert\.android\build-cache\475f366b06b1c750d6cbcada1d9cb52e86c6ab29\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Robert\.android\build-cache\499efa0a85566bb8821bda8e291956ed52fe47cb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Robert\.android\build-cache\2a81a8bd065b4a0958abba97011396bfcf0be4fa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Robert\.android\build-cache\c6f6be7e7714e09ef57b554757ba428fc3b25373\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\4515df7f21694f8f0e80a66bf94ded47ea21b429\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\b585f384ea779a71cb2e84c9ca81d29141352340\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Robert\.android\build-cache\1de10746e02d7864df2164b857028b281e836f98\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Robert\.android\build-cache\54bcafb6e388660a3e354790271333039a82108f\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Robert\AndroidStudioProjects\DiningPhilosopher\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Robert\.android\build-cache\2ae711ade0e5cc487c8e55d38c70a4a64d75d5a6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Robert\.android\build-cache\475f366b06b1c750d6cbcada1d9cb52e86c6ab29\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Robert\.android\build-cache\499efa0a85566bb8821bda8e291956ed52fe47cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Robert\.android\build-cache\2a81a8bd065b4a0958abba97011396bfcf0be4fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Robert\.android\build-cache\c6f6be7e7714e09ef57b554757ba428fc3b25373\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\4515df7f21694f8f0e80a66bf94ded47ea21b429\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Robert\.android\build-cache\b585f384ea779a71cb2e84c9ca81d29141352340\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Robert\.android\build-cache\1de10746e02d7864df2164b857028b281e836f98\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Robert\.android\build-cache\25517215a7553b5f12ce46cae5a8c8dc9c68bf81\output\AndroidManifest.xml:26:9-47

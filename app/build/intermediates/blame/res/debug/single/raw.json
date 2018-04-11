@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\raw\\song.wav",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\src\\main\\res\\raw\\song.wav"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\build\\intermediates\\res\\merged\\debug\\raw\\button.wav",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\DiningPhilosopher\\app\\src\\main\\res\\raw\\button.wav"
+    }
+]
